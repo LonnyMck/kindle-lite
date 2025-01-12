@@ -1,4 +1,4 @@
-![](/demos/downbuttondemo.gif)
+<p align="center"> ![](/demos/downbuttondemo.gif) </p>
 
 Hardware:
 - [Pico Inky Pack](https://shop.pimoroni.com/products/pico-inky-pack?variant=40044626051155)
